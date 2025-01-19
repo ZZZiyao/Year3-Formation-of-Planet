@@ -1,4 +1,5 @@
 #Computational Physics Final Project
+
 Q1_Dust_Settling: Simulates pure advection to determine the time required for the local dust-to-gas density ratio to exceed 1 at various radial distances (R).
 
 Q2_Q3_Q4_Loop_Alpha: Loops over alpha values to show the evolution of the maximum dust-to-gas density ratio over time at a fixed distance. (Advection-Diffusion)
