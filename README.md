@@ -1,4 +1,4 @@
-#Computational Physics Final Project
+# Computational Physics Final Project
 
 Q1_Dust_Settling: Simulates pure advection to determine the time required for the local dust-to-gas density ratio to exceed 1 at various radial distances (R).
 
